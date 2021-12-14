@@ -50,6 +50,7 @@ ABOUT THE CODE:
   <li>Write the necessary information (i.e. the BMPINFOHEADER, BMPHEADER, new color palette, pixel size, padding correction etc.) to the
    destination file.</li>
 </ol>
+
 RESOURCES:
 -----------------
 <ol>
